@@ -6,11 +6,11 @@ using namespace std;
 template<typename TYPE>
 TYPE triangleArea(TYPE hay, TYPE low)
 {
-    return tow * hay / 2;
+    return low * hay / 2;
 }
 int main()
 {
-    triangleArea<int>(3.5, 6.5);
+   cout<< triangleArea<int>(3.5, 6.5)<<endl;
 }
 
 
