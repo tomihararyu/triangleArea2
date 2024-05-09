@@ -10,7 +10,7 @@ TYPE triangleArea(TYPE hay, TYPE low)
 }
 int main()
 {
-   cout<< triangleArea<int>(3.5, 6.5)<<endl;
+   cout<< triangleArea<int>(3.5, 6.6)<<endl;
 }
 
 
